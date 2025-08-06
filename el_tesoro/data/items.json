@@ -1,0 +1,20 @@
+[
+  {
+    "id": "carta_misteriosa",
+    "nombre": "Carta misteriosa",
+    "tipo": "carta",
+    "descripcion": "Una carta antigua dirigida a Antonio."
+  },
+  {
+    "id": "llave_casa",
+    "nombre": "Llave de la casa",
+    "tipo": "llave",
+    "descripcion": "Llave que abre la casa abandonada."
+  },
+  {
+    "id": "pista_estrella",
+    "nombre": "Pista astronómica",
+    "tipo": "pista",
+    "descripcion": "Referencia a la Cruz del Sur."
+  }
+]

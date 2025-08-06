@@ -1,0 +1,37 @@
+[
+  {
+    "nombre": "Antonio",
+    "tipo": "jugable",
+    "descripcion": "Protagonista principal, joven curioso y valiente."
+  },
+  {
+    "nombre": "Luis",
+    "tipo": "jugable",
+    "descripcion": "Amigo de Antonio, leal y entusiasta."
+  },
+  {
+    "nombre": "John Baker",
+    "tipo": "histórico",
+    "descripcion": "Figura histórica, aparece en flashbacks o cartas."
+  },
+  {
+    "nombre": "Padres",
+    "tipo": "npc",
+    "descripcion": "Padres de Antonio."
+  },
+  {
+    "nombre": "Farías",
+    "tipo": "npc",
+    "descripcion": "Vecino y personaje clave en la historia."
+  },
+  {
+    "nombre": "Comisario",
+    "tipo": "npc",
+    "descripcion": "Autoridad local."
+  },
+  {
+    "nombre": "Hombre de la cicatriz",
+    "tipo": "npc",
+    "descripcion": "Enigmático y peligroso."
+  }
+]
